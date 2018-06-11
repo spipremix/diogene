@@ -17,7 +17,7 @@
     ],
     "require": {
         "spipremix/saisies": "^2.25",
-        "spip/images": "^2.0",
+        "spip/images": ">=1.2",
         "spip/mediabox": "^1.1",
         "spip/organiseur": "^1.2"
     }

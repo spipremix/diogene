@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a056c2e385264e80960d26e2517c33c8",
+    "content-hash": "b7caf67ea9232d3021688182283394aa",
     "packages": [
         {
             "name": "spip/images",
