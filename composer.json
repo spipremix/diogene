@@ -1,7 +1,7 @@
 {
-    "name": "diogene/giogene",
+    "name": "diogene/diogene",
     "homepage": "https://www.mediaspip.net/spip.php?article50",
-    "description": "Gestion des pages sans rubrique",
+    "description": "Création de templates de formulaires pour les objets",
     "type": "spip-plugin",
     "license": "GPL-3.0-or-later",
     "authors": [
